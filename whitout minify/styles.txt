@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600&display=swap");
 * {
   font-family: "Roboto", sans-serif;
   margin: 0;
@@ -213,6 +214,10 @@ header .navbar a:hover {
   color: #666;
   font-size: 1.7rem;
   padding: 0.5rem 0;
+}
+
+.about .row-1 .content .email {
+  text-transform: none;
 }
 
 .about .row-1 .content .box-container {
